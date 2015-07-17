@@ -26,15 +26,15 @@ set.seed(7)
 
 ## Goals for this workshop
 
-- Learn how to read and write images in and out of *R*
+* Learn how to read and write images in and out of *R*
 
-- Learn how images are represented in *R* and how to manipulate them
+* Learn how images are represented in *R* and how to manipulate them
 
-- Understand how to apply filters and transformations to images
+* Understand how to apply filters and transformations to images
 
-- Apply these skills to microscopy images of cells to do segmentation and feature extraction
+* Apply these skills to microscopy images of cells to do segmentation and feature extraction
 
-- Explore spatial distributions of the position of cells
+* Explore spatial distributions of the position of cells
 
 ## EBImage 
 
