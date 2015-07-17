@@ -13,7 +13,6 @@ nocite: |
 vignette: >
   %\VignetteIndexEntry{Basics of image data and spatial patterns analysis in R}
   %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
 ---
 ```{r echo=FALSE, message=FALSE}
 library(BioC2015Oles)
