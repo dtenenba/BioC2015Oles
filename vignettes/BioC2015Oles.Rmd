@@ -197,6 +197,8 @@ print(imgcol, short = TRUE)
 
 ```{r, echo=FALSE}
 nuc = readImage(system.file("images", "nuclei.tif", package="EBImage"))
+```
+
 ```{r, fig.width=dim(nuc)[1L]/.dpi, fig.height=dim(nuc)[2L]/.dpi, dpi=.dpi/2}
 nuc = readImage(system.file("images", "nuclei.tif", package="EBImage"))
 print(nuc, short = TRUE)
